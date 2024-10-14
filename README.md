@@ -8,3 +8,6 @@
 ## 作業連結區
 ### HW1 
 [My website](https://arthurarthurarthur0817.github.io/Website/)
+
+### HW2
+[HW2](https://youtu.be/R8iDpLFDLok)
