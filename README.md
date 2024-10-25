@@ -13,5 +13,5 @@
 [HW2](https://youtu.be/R8iDpLFDLok)
 
 ### HW3
-[HW3]()
+[HW3](https://youtu.be/Q39oawEFj0A?si=FBy8Jyehs7cUaJLV)
 
