@@ -15,3 +15,7 @@
 ### HW3
 [HW3](https://youtu.be/Q39oawEFj0A?si=FBy8Jyehs7cUaJLV)
 
+[HW3_Video](https://youtu.be/RYi0gbDHV1M)
+
+[HW3_Program]()
+
