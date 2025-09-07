@@ -12,9 +12,13 @@
 [My website](https://arthurarthurarthur0817.github.io/Website/)
 
 ### HW2
+一個簡易的旅行計畫表單，可將輸入的每次紀錄進行儲存
+
 [HW2](https://youtu.be/R8iDpLFDLok)
 
 ### HW3
+一個calandar+to do list的初階段程式實作，已經可以顯示日曆與建立事件、儲存
+
 [HW3](https://youtu.be/Q39oawEFj0A?si=FBy8Jyehs7cUaJLV)
 
 [HW3_Video](https://youtu.be/RYi0gbDHV1M)
@@ -23,5 +27,7 @@
 
 ### HW4
 
-[HW4_Render](https://calendar-p3se.onrender.com)
+期末專案的連結
+
+[HW4_Code]([https://calendar-p3se.onrender.com](https://github.com/ArthurArthurArthur0817/Calendar.git))
 
